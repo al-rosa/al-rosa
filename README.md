@@ -21,3 +21,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/al-rosa/contributions.svg" />
   </a>
 </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=al-rosa" alt="GitHub Trophy">
+</a>
