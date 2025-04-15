@@ -1,3 +1,5 @@
+![IMG_2561](https://github.com/user-attachments/assets/0b32bccb-b58e-4f1e-b76c-e4e446b27c45)
+
 <p align="left">
   <a href="https://github.com/al-rosa/al-rosa/">
     <img src="https://komarev.com/ghpvc/?username=al-rosa" alt="al-rosa" />
